@@ -1,0 +1,9 @@
+{
+  "name": "Global Anti Scam Org",
+  "website": "https://github.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist",
+  "description": "Blocks scam and phishing domains collected by Global Anti Scam",
+  "source": {
+    "url": "https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/refs/heads/main/global-anti-scam-org-scam-urls-UBO.txt",
+    "format": "domains"
+  }
+}
