@@ -1,0 +1,9 @@
+{
+  "name": "ph00lt0",
+  "website": "https://github.com/ph00lt0/blocklist",
+  "description": "ads and track",
+  "source": {
+    "url": "https://raw.githubusercontent.com/ph00lt0/blocklist/master/blocklist.txt",
+    "format": "domains"
+  }
+}
