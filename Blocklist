@@ -1,0 +1,9 @@
+{
+  "name": "Perflyst Android Tracking",
+  "website": "https://github.com/Perflyst/PiHoleBlocklist",
+  "description": "Blocks Android trackers and analytics",
+  "source": {
+    "url": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/refs/heads/master/android-tracking.txt",
+    "format": "domains"
+  }
+}
