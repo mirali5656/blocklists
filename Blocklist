@@ -1,0 +1,9 @@
+{
+  "name": "NoCoin",
+  "website": "https://github.com/hoshsadiq/adblock-nocoin-list",
+  "description": "Blocks crypto mining domains",
+  "source": {
+    "url": "https://justdomains.github.io/blocklists/lists/nocoin-justdomains.txt",
+    "format": "domains"
+  }
+}
