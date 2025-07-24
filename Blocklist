@@ -1,0 +1,9 @@
+{
+  "name": "AdmiraList",
+  "website": "https://github.com/jkrejcha/AdmiraList",
+  "description": "Blocks tracking and ad domains",
+  "source": {
+    "url": "https://raw.githubusercontent.com/jkrejcha/AdmiraList/refs/heads/master/AdmiraList.txt",
+    "format": "domains"
+  }
+}
